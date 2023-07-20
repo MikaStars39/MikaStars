@@ -2,7 +2,7 @@
 <p align="center">
     I am currently a student in ZJU SIS.</br>
   What I am interested in: NLP, Computitional Linguistics.</br>
-  My profile: https://github.com/MikaStars39/MikaStars39.github.io/blob/main/Qingyu_Yin_ZJU_Resume.pdf
+  My profile: https://github.com/MikaStars39/MikaStars39.github.io/blob/main/Qingyu_Yin_ZJU_Resume.pdf <br>
   Opensource Project: mikastars39.github.io
   
 </p>
