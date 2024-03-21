@@ -17,8 +17,4 @@ My name is **Qingyu Yin** ([tsin jy in], **尹清宇** in Chinese).
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzhangcs&layout=compact)](https://github.com/yzhangcs)
 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yzhangcs/yzhangcs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yzhangcs/yzhangcs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yzhangcs/yzhangcs/output/github-contribution-grid-snake.svg">
-</picture>
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mikastars39&count_private=true&theme=merko&show_icons=true&count_private=true&sanitize=true)
