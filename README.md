@@ -1,4 +1,4 @@
-<h1 align="center">工作了就输了！働いたら负け! To toil is to surrender!</h1>
+<h1 align="center">工作了就输了！働いたら负け！</h1>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Google%20Scholar-4385FE.svg?&color=d6d6d6&style=flat-square&logo=google-scholar" width="120px" alt="" />
